@@ -6,7 +6,7 @@ toolchain go1.23.3
 
 require (
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
-	github.com/bszirtes/sdk-k8s v0.1.39
+	github.com/bszirtes/sdk-k8s v0.1.40
 	github.com/edwarnicke/debug v1.0.0
 	github.com/edwarnicke/exechelper v1.0.3
 	github.com/edwarnicke/genericsync v0.0.0-20220910010113-61a344f9bc29
