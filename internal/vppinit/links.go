@@ -1,4 +1,4 @@
-// Copyright (c) 2021-2022 Nordix Foundation.
+// Copyright (c) 2021-2025 Nordix Foundation.
 //
 // Copyright (c) 2023 Cisco and/or its affiliates.
 //

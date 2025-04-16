@@ -45,9 +45,9 @@ import (
 	"github.com/networkservicemesh/vpphelper"
 	"github.com/networkservicemesh/vpphelper/extendtimeout"
 
+	"github.com/bszirtes/sdk-k8s/pkg/tools/deviceplugin"
+	"github.com/bszirtes/sdk-k8s/pkg/tools/podresources"
 	registryapi "github.com/networkservicemesh/api/pkg/api/registry"
-	"github.com/networkservicemesh/sdk-k8s/pkg/tools/deviceplugin"
-	"github.com/networkservicemesh/sdk-k8s/pkg/tools/podresources"
 	"github.com/networkservicemesh/sdk-sriov/pkg/networkservice/common/resourcepool"
 	sriovconfig "github.com/networkservicemesh/sdk-sriov/pkg/sriov/config"
 	"github.com/networkservicemesh/sdk-sriov/pkg/sriov/pci"
